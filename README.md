@@ -1,88 +1,72 @@
-# Project Title
+# GoFinances Web
 
-One Paragraph of project description goes here
+<p align="center">“Gestão de Finanças”!</blockquote>
 
-## Getting Started
+<p align="center">
+  <img alt="Linguagem Utilizada" src="https://img.shields.io/badge/language-NodeJS--React-blue">
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+  <a href="#">
+    <img alt="Made by Raul Brito" src="https://img.shields.io/badge/made%20by-Raul%20Brito-blue">
+  </a>
+</p>
 
-### Prerequisites
+<p align="center">
+  <a href="#pencil-sobre-gofinace">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-What things you need to install the software and how to install them
+## :pencil: Sobre o Go Finance
 
-```
-Give examples
-```
+O Go Finance é um projeto para gerir suas finanças de forma pratica e intuitiva inserindo apenas um arquivo em formato CSV e salvando as informações na plataforma, assim terá mais controle e autonomia em controle das suas finanças para o seu dia a dia. 
 
-### Installing
+### Pre-requisitos
 
-A step by step series of examples that tell you how to get a development env running
+O sistema foi desenvolvido na linguagem React consumindo uma API desenvolvido em NodeJS e utilizando outras diversas ferramentas para o seu desenvolvimento como por exemplo: ESLINT, PRETTIER, REACT-ROUTER-DOM, STYLE-COMPONENTS, POLISHED, REACT-ICONS, AXIOS entre outras.
 
-Say what the step will be
+Para utilizar esse projeto é necessário ter instalado o NODE, o YARN e ter uma API que será consumida para buscar e salvar suas informações que abordarei em outro momento.
 
-```
-Give the example
-```
+### Instalação
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Para baixar as dependências, apenas rode o comando na raiz do projeto:
 
 ```
-Give an example
+$ yarn 
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+Após terminar a instalação das dependencias, inicie o seu projeto:
 
 ```
-Give an example
+$ yarn start
 ```
 
-## Deployment
+Se tudo correr bem conseguirá ver sua aplicação rodando no link http:localhost:3000 .
 
-Add additional notes about how to deploy this on a live system
+## Um bonus na aplicação
 
-## Built With
+Dentro do projeto existe um pequeno teste de funcionalidade verificando todas as rotas de utilização e retornando os resultados de sucesso ou erro.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+### Rodando testes na aplicação
 
-## Contributing
+Pode ser visto utilizando o seguinte comando:
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+```
+yarn test
+```
 
-## Versioning
+## Contribuição
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Este projeto faz parte de um dos desafios do curso da [RocketSeat GoStack 11](http://rocketseat.com.br)- "Desafio 07: GoFinances Web".
 
-## Authors
+## Versionamento
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Utilizamos apenas o GuitHub como forma de versionamento da aplicação. 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Lincença e Autor Template
 
-## License
+* **RocketSeat** - *Projeto Inicial* - [RocketSeat](http://rocketseat.com.br)
+* **Comunidade RocketSeat** - *Apoiadores* - [Comunidade RocketSeat](https://discordapp.com/invite/gCRAFhc)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Para conhecer mais sobre a RocketSeat acesse o [site](http://rocketseat.com.br).
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
