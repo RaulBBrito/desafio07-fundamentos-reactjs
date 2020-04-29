@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="#pencil-sobre-gofinace">Sobre o Go Finance</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-sobre-gofinace">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-sobre-gofinace">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-sobre-gofinace">Um bonus na aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-sobre-gofinace">Rodando testes na aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Versionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Lincença e Autor Template</a>
+  <a href="#pencil-sobre-o-go-finace">Sobre o Go Finance</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#construction-pre-requisitos">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#package-bonus">Bonus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dizzy-rodando-teste">Rodando testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#seedling-contribuicao">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#building_construction-versionamento">Versionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#busts_in_silhouette-lincença">Lincença</a>
 </p>
 
 ## :pencil: Sobre o Go Finance
@@ -47,11 +47,11 @@ $ yarn start
 
 Se tudo correr bem conseguirá ver sua aplicação rodando no link http:localhost:3000 .
 
-## :package: Um bonus na aplicação
+## :package: Bonus
 
 Dentro do projeto existe um pequeno teste de funcionalidade verificando todas as rotas de utilização e retornando os resultados de sucesso ou erro.
 
-### :dizzy: Rodando testes na aplicação
+### :dizzy: Rodando teste
 
 Pode ser visto utilizando o seguinte comando:
 
@@ -67,7 +67,7 @@ Este projeto faz parte de um dos desafios do curso da [RocketSeat GoStack 11](ht
 
 Utilizamos apenas o GuitHub como forma de versionamento da aplicação. 
 
-## :busts_in_silhouette: Lincença e Autor Template
+## :busts_in_silhouette: Lincença
 
 * **RocketSeat** - *Projeto Inicial* - [RocketSeat](http://rocketseat.com.br)
 * **Comunidade RocketSeat** - *Apoiadores* - [Comunidade RocketSeat](https://discordapp.com/invite/gCRAFhc)
