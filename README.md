@@ -1,8 +1,8 @@
 # :iphone: GoFinances Web
 
-<p align="center">“Gestão de Finanças”!</blockquote>
-
 <img alt="GoFinance" src="https://github.com/RaulBBrito/desafio07-fundamentos-reactjs/blob/master/desafio07.png">
+
+<p align="center">“Gestão de Finanças”!</blockquote>
 
 <p align="center">
   <img alt="Linguagem Utilizada" src="https://img.shields.io/badge/language-NodeJS--React-blue">
