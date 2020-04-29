@@ -11,17 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="#pencil-sobre-o-go-finace">Sobre o Go Finance</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction-pre-requisitos">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#package-bonus">Bonus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dizzy-rodando-teste">Rodando testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#seedling-contribuicao">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#building_construction-versionamento">Versionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#busts_in_silhouette-lincença">Lincença</a>
 </p>
 
-## :pencil: Sobre o Go Finance
+## :pencil: Sobre
 
 O Go Finance é um projeto para gerir suas finanças de forma pratica e intuitiva inserindo apenas um arquivo em formato CSV e salvando as informações na plataforma, assim terá mais controle e autonomia em controle das suas finanças para o seu dia a dia. 
 
