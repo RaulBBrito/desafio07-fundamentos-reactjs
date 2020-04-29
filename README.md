@@ -18,7 +18,7 @@
   <a href="#package-bonus">Bonus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dizzy-rodando-teste">Rodando testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#building_construction-versionamento">Versionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#busts_in_silhouette-lincença">Lincença</a>
+  <a href="#busts_in_silhouette-licença">Licença</a>
 </p>
 
 ## :pencil: Sobre
