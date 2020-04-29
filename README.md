@@ -56,7 +56,7 @@ Dentro do projeto existe um pequeno teste de funcionalidade verificando todas as
 Pode ser visto utilizando o seguinte comando:
 
 ```
-yarn test
+$ yarn test
 ```
 
 ## :seedling: Contribuição
@@ -67,7 +67,7 @@ Este projeto faz parte de um dos desafios do curso da [RocketSeat GoStack 11](ht
 
 Utilizamos apenas o GuitHub como forma de versionamento da aplicação. 
 
-## :busts_in_silhouette: Lincença
+## :busts_in_silhouette: Licença
 
 * **RocketSeat** - *Projeto Inicial* - [RocketSeat](http://rocketseat.com.br)
 * **Comunidade RocketSeat** - *Apoiadores* - [Comunidade RocketSeat](https://discordapp.com/invite/gCRAFhc)
